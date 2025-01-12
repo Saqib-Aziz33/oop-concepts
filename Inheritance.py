@@ -1,3 +1,6 @@
+# Detailed Reference
+# https://www.geeksforgeeks.org/inheritance-in-python/
+
 # Single Inheritance: A child class inherits from a single parent class .
 # Multiple Inheritance: A child class inherits from more than one parent class .
 # Multilevel Inheritance: A child class inherits from a parent class , which in turn inherits from another class.

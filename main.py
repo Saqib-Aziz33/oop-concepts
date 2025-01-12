@@ -1,3 +1,10 @@
+# The 4 pillars of object-oriented programming (OOP) in Python (and generally in programming) are:
+# Encapsulation: Bundling data (attributes) and methods (functions) that operate on the data into a single unit (class).
+# Abstraction: Hiding complex implementation details and providing a simplified interface.
+# Inheritance: Allowing a class to inherit attributes and methods from another class, promoting code reuse.
+# Polymorphism: Using a single interface to represent different data types or objects.
+
+
 class Browser:
     def __init__(self, name, version):
         self.name = name
